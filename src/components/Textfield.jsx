@@ -7,7 +7,7 @@ export default function Textfield({ updateWeatherInfo }) {
   const [setError] = useState(null);
 
   const API_URL = "https://api.openweathermap.org/data/2.5/weather";
-  const API_KEY = "4d194e49ed0a7fe9a0f446892848b646";
+  const API_KEY = "Enter  your API KEY";
 
   const getWeatherInfo = async (city) => {
     try {
@@ -16,7 +16,7 @@ export default function Textfield({ updateWeatherInfo }) {
         throw new Error('Network response was not ok');
       }
       const jsonResponse = await response.json();
-      console.log(jsonResponse); 
+      console.log(jsonResponse);
 
       const weatherDetails = {
         city: city,
