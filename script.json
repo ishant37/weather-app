@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CNBC",
+      "title": "McDonald’s is about to report earnings. Here’s what to expect - CNBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMjkvbWNkb25hbGRzLW1jZC1xMi0yMDI0LWVhcm5pbmdzLmh0bWzSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T04:01:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "BBC.com",
+      "title": "Chris Mason: Politics to roar back in blame game over funding - BBC.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jOXd2NDIzbHo4eW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzl3djQyM2x6OHlvLmFtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T03:44:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Wall Street Journal",
+      "title": "A Fed Rate Cut Is Finally Within View - The Wall Street Journal",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lndzai5jb20vZWNvbm9teS9jZW50cmFsLWJhbmtpbmcvZmVkLW5lYXItaW50ZXJlc3QtcmF0ZS1jdXQtZDMwM2RiZDXSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T03:18:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "author": "Bradley Keoun",
+      "title": "Bitcoin Nashville Conference in Pictures: Orange Athena, Pink Suits, Polymarket Swag, Trump's Song - CoinDesk",
+      "description": "Surreal doesn't begin to describe the combination of visuals collected from last week's festival-style gathering in homage to the oldest and largest cryptocurrency, punctuated by former U.S. President Donald Trump's pro-crypto speech to an adoring crowd.",
+      "url": "https://www.coindesk.com/tech/2024/07/29/bitcoin-nashville-conference-in-pictures-orange-athena-pink-suits-polymarket-swag-trumps-song/",
+      "urlToImage": "https://www.coindesk.com/resizer/MzVBHSiH8T-VQGipFdVKiEQ1FsE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FOHAY4ICVVB3LD3AJ2YO6X5T6I.jpeg",
+      "publishedAt": "2024-07-29T02:55:00Z",
+      "content": "Attending the Bitcoin Nashville conference last week hosted by BTC Inc. was an exercise in sensory-overload management: Try to stay in the moment, follow the thread, and hopefully don't lose your min… [+6390 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CNN",
+      "title": "US to revamp military forces in Japan in ‘historic’ move as regional tensions mount - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yNy9hc2lhL3VzLWF1c3Rpbi10cmlsYXRlcmFsLWphcGFuLXNvdXRoLWtvcmVhLWludGwtaG5rL2luZGV4Lmh0bWzSAVdodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzI3L2FzaWEvdXMtYXVzdGluLXRyaWxhdGVyYWwtamFwYW4tc291dGgta29yZWEtaW50bC1obms?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T02:46:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "WESH 2 Orlando",
+      "title": "Tracking the Tropics: Weather disturbance over Atlantic Ocean expected to interact with Tropical wave - WESH 2 Orlando",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lndlc2guY29tL2FydGljbGUvdHJvcGljcy11cGRhdGUtZmxvcmlkYS10cmFjay82MTcxODg2MNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T02:44:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Axios",
+      "title": "Swelling Park Fire now California's 7th biggest wildfire on record - Axios",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzI4L2NhbGlmb3JuaWEtcGFyay1maXJlLXN0YXRlcy1sYXJnZXN00gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T02:37:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "WKRC TV Cincinnati",
+      "title": "Two meteor showers will flash across the sky around the same time in late July - WKRC TV Cincinnati",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMirgFodHRwczovL2xvY2FsMTIuY29tL25ld3MvbmF0aW9uLXdvcmxkL3NvdXRoZXJuLWRlbHRhLWFxdWFyaWlkLW1ldGVvci1zaG93ZXItYWxwaGEtY2Fwcmljb3JuaWRzLWRlbHRhLW1ldGVvcnMtc2hvd2Vycy1za3ktc2FtZS10aW1lLWxhdGUtanVseS1wZWFrLXBlYWtzLWNpbmNpbm5hdGktY2Fwcmljb3JuaWTSAbIBaHR0cHM6Ly9sb2NhbDEyLmNvbS9hbXAvbmV3cy9uYXRpb24td29ybGQvc291dGhlcm4tZGVsdGEtYXF1YXJpaWQtbWV0ZW9yLXNob3dlci1hbHBoYS1jYXByaWNvcm5pZHMtZGVsdGEtbWV0ZW9ycy1zaG93ZXJzLXNreS1zYW1lLXRpbWUtbGF0ZS1qdWx5LXBlYWstcGVha3MtY2luY2lubmF0aS1jYXByaWNvcm5pZA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T02:13:56Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "MLB.com",
+      "title": "12 bold predictions for Tuesday's Trade Deadline - MLB.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3Lm1sYi5jb20vbmV3cy9ib2xkLXByZWRpY3Rpb25zLWZvci0yMDI0LW1sYi10cmFkZS1kZWFkbGluZdIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T01:50:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Jerusalem Post",
+      "title": "IDF tanks, heavy artillery target Khan Yunis neighborhood - report - The Jerusalem Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lmpwb3N0LmNvbS9icmVha2luZy1uZXdzL2FydGljbGUtODEyMjk20gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T01:48:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "USA TODAY",
+      "title": "Phoenix warehouse crews locate body of missing man 3 days after roof collapse - USA TODAY",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDI0LzA3LzI4L2JvZHktZm91bmQtcGhvZW5peC13YXJlaG91c2UtY29sbGFwc2UvNzQ1ODA4MzgwMDcv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T01:42:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Associated Press",
+      "title": "Live updates: Venezuelans await results in presidential election - The Associated Press",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vYXBuZXdzLmNvbS9saXZlL3ZlbmV6dWVsYS1lbGVjdGlvbi11cGRhdGVzLW1hZHVyby1tYWNoYWRvLWdvbnphbGV60gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T01:34:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Eric Revell",
+      "title": "Apple's new AI features to be delayed after iOS 18 release: report - Fox Business",
+      "description": "Apple reportedly delayed the release of its new AI-powered Apple Intelligence features on devices until October after the release of the iOS 18 software in September.",
+      "url": "https://www.foxbusiness.com/technology/apples-new-ai-features-delayed-after-ios-18-release-report",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/07/0/0/Apple-Intelligence-0.jpg?ve=1&tl=1",
+      "publishedAt": "2024-07-29T00:44:00Z",
+      "content": "Apple's upcoming release of new artificial intelligence (AI)\r\n tools is now expected to occur later than originally expected, coming after the initial launch of the new iOS 18 software for iPhone and… [+2790 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Washington Post",
+      "title": "U.S. women’s soccer routs Germany to clinch Olympic quarterfinal berth - The Washington Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9zcG9ydHMvb2x5bXBpY3MvMjAyNC8wNy8yOC91cy1zb2NjZXItZ2VybWFueS13b21lbi1vbHltcGljcy_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T00:40:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Neuroscience News",
+      "title": "Blood Tests Revolutionize Alzheimer’s Diagnosis - Neuroscience News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vbmV1cm9zY2llbmNlbmV3cy5jb20vYWNjdXJhdGUtYWx6aGVpbWVycy1ibG9vZC10ZXN0LTI3NDg2L9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T00:08:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "E! NEWS",
+      "title": "Selena Gomez Claps Back at Plastic Surgery Speculation - E! Online - E! NEWS",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmVvbmxpbmUuY29tL25ld3MvMTQwNTUwNi9zZWxlbmEtZ29tZXotY2xhcHMtYmFjay1hdC1wbGFzdGljLXN1cmdlcnktc3BlY3VsYXRpb27SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-29T00:04:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Zeena Saifi, Jeremy Diamond",
+      "title": "‘They were just kids. What did they do wrong?’: In Majdal Shams, a town caught between Israel and Hezbollah mourns its young - CNN",
+      "description": "The Syrian Druze community of Majdal Shams in the Golan Heights are united in grief following the deaths of 12 children in a rocket strike on Saturday.",
+      "url": "https://www.cnn.com/2024/07/28/middleeast/majdal-shams-mourning-israel-hezbollah-intl-latam/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/zeena2.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-07-28T23:59:00Z",
+      "content": "Majdal Shams, Golan HeightsCNN\r\n   \r\nEleven-year-old Alma was daddys little girl. She used to get away with anything she wanted. Her father, Ayman Fakhr al-Din said she was always filled with energy … [+4087 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Yahoo Sports",
+      "title": "Why Jayson Tatum didn't play in Team USA's win over Serbia - Yahoo Sports",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS93aHktamF5c29uLXRhdHVtLWRpZG50LXBsYXktMTgyNTE2NDM4Lmh0bWzSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-28T23:57:48Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "DW (English)",
+      "title": "Italy's Meloni signs deal to 'relaunch' ties with China - DW (English)",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmR3LmNvbS9lbi9pdGFseXMtbWVsb25pLXNpZ25zLWRlYWwtdG8tcmVsYXVuY2gtdGllcy13aXRoLWNoaW5hL2EtNjk3OTE4NTDSAVVodHRwczovL2FtcC5kdy5jb20vZW4vaXRhbHlzLW1lbG9uaS1zaWducy1kZWFsLXRvLXJlbGF1bmNoLXRpZXMtd2l0aC1jaGluYS9hLTY5NzkxODUw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-28T23:55:53Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CNN",
+      "title": "Lady Gaga introduces Michael Polansky as her fiancé in Paris - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yOC9lbnRlcnRhaW5tZW50L2xhZHktZ2FnYS1taWNoYWVsLXBvbGFuc2t5LWVuZ2FnZWQvaW5kZXguaHRtbNIBU2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjgvZW50ZXJ0YWlubWVudC9sYWR5LWdhZ2EtbWljaGFlbC1wb2xhbnNreS1lbmdhZ2Vk?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-28T23:49:00Z",
+      "content": null
+    }
+  ]
+}
